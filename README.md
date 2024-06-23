@@ -9,6 +9,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/TakeshiSaito_TA?label=X&logo=twitter&style=flat" />
 </a>
 
+
 - 🔭 I’m currently working on [Modeling Cafe](https://www.linkedin.com/in/takeshi-saito-aa6894180/)
 
 - 👨‍💻 All of my projects are available at [https://www.takeshi-saito-cg.com/portfolio](https://www.takeshi-saito-cg.com/portfolio)
