@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takeshisaito" alt="takeshisaito" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/takeshisaito_ta" target="blank"><img src="https://img.shields.io/twitter/follow/takeshisaito_ta?logo=twitter&style=for-the-badge" alt="takeshisaito_ta" /></a> </p>
+<a href="http://twitter.com/TakeshiSaito_TA">
+    <img height="20" src="https://img.shields.io/twitter/follow/TakeshiSaito_TA?label=X&logo=twitter&style=flat" />
+</a>
 
 - 🔭 I’m currently working on [Modeling Cafe](https://www.linkedin.com/in/takeshi-saito-aa6894180/)
 
