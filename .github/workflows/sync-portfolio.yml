@@ -13,6 +13,28 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
+      - name: Update GitHub profile bio
+        env:
+          GH_TOKEN: ${{ secrets.PORTFOLIO_PAT }}
+        run: |
+          # Extract bio from README <h3> subtitle
+          BIO=$(sed -n 's/.*<h3 align="center">\(.*\)<\/h3>.*/\1/p' README.md | head -1)
+
+          if [ -z "$BIO" ]; then
+            echo "No <h3> subtitle found in README, skipping bio update"
+            exit 0
+          fi
+
+          echo "Updating GitHub bio to: $BIO"
+
+          # Update bio via GitHub API
+          jq -n --arg bio "$BIO" '{ bio: $bio }' | \
+            curl -s -X PATCH https://api.github.com/user \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d @- \
+              -o /dev/null -w "HTTP %{http_code}\n"
+
       - name: Generate content_option.js via GitHub Models
         id: generate
         env:
@@ -126,4 +148,3 @@ jobs:
             git push
             echo "Pushed updated content_option.js"
           fi
-
