@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takeshisaito&label=Profile%20views&color=0e75b6&style=flat" alt="takeshisaito" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takeshisaito" alt="takeshisaito" /></a> </p>
-
 ## 🎯 About Me
 
 I am a **Production Engineer** with 8+ years of experience in the game and CG industry. My passion lies in designing and optimizing CG production pipelines, bridging the gap between technical art and production workflows. I specialize in Python scripting, pipeline architecture, DCC tool integration, and CI/CD workflow optimization.
