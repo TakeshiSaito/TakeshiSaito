@@ -22,7 +22,6 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
 
 - 📫 How to reach me: **takeshi.saito.9119@gmail.com**
 
-- 📄 Full experiences on [LinkedIn](https://www.linkedin.com/in/takeshi-saito-aa6894180/)
 
 - ⚡ Fun fact: **I love muscle training 💪💪💪**
 
