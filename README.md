@@ -13,8 +13,8 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
   - Building scalable pipeline architectures
   - Supporting technical implementation for production teams
 
-- 🎓 Also teaching: **Python instructor at HAL Osaka** (2023 - Present)
-  - Conducting practical Python lectures for 3D CG applications
+- 🎓 Previously: **Python instructor at HAL Osaka** (2023.11 - 2024.9)
+  - Conducted practical Python lectures for 3D CG applications
 
 - 👨‍💻 All of my projects are available at [https://www.takeshi-saito-cg.com/portfolio](https://www.takeshi-saito-cg.com/portfolio)
 
@@ -30,13 +30,17 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
 
 [takeshi-saito-aa6894180](https://www.linkedin.com/in/takeshi-saito-aa6894180/)
 
+## 🏅 Certifications
+
+- Passed the **IPA Applied Information Technology Engineer Examination** (2025.12)
+
 ## 💼 Professional Experience
 
 | Role | Company | Period | Description |
 |------|---------|--------|-------------|
 | **Production Engineer** | A CG company in Tokyo | 2024.10 - Present | Developing and maintaining CG production pipelines, optimizing DCC tool workflows, building scalable pipeline architectures, supporting technical implementation for production teams |
 | **Technical Director** | ModelingCafe inc. | 2023.1 - 2024.9 | Built pipelines, created digital human production tools, established CI/CD workflows for efficient deployment, provided technical support for production |
-| **Python Instructor** | HAL Osaka | 2023 - Present | Teaching practical Python lectures for 3D CG applications |
+| **Python Instructor** | HAL Osaka | 2023.11 - 2024.9 | Taught practical Python lectures for 3D CG applications |
 | **Technical Artist** | ILCA inc. | 2022 | Developed consumer games using Unreal Engine, created DCC tools with Python, constructed Blueprints, performed character rigging |
 | **Student** | Digital Hollywood | 2021 - 2022 | Learned DCC tools (Maya, ZBrush, Substance Painter, Houdini), studied full 3D CG production pipeline |
 | **Client-side Engineer** | grimoire co., ltd. | 2018 - 2021 | Maintained and developed Unity mobile games, gained experience in optimization for low-end devices |
