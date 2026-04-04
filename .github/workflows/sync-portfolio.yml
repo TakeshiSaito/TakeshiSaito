@@ -16,7 +16,7 @@ jobs:
       - name: Generate content_option.js via GitHub Models
         id: generate
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PORTFOLIO_PAT }}
         run: |
           cat > prompt.txt << 'PROMPT_END'
           You are a code generator. Given the following GitHub profile README, generate a JavaScript file named content_option.js for a React portfolio site.
@@ -91,7 +91,7 @@ jobs:
 
           # Call GitHub Models API (no separate API key needed)
           curl -s https://models.inference.ai.azure.com/chat/completions \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Authorization: Bearer $GH_TOKEN" \
             -H "Content-Type: application/json" \
             -d @request.json \
             -o response.json
