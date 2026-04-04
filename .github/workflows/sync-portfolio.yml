@@ -12,14 +12,6 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
-      - name: Read README
-        id: readme
-        run: |
-          EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
-          echo "content<<$EOF" >> "$GITHUB_OUTPUT"
-          cat README.md >> "$GITHUB_OUTPUT"
-          echo "$EOF" >> "$GITHUB_OUTPUT"
-
       - name: Generate content_option.js via GitHub Models
         id: generate
         env:
@@ -83,10 +75,10 @@ jobs:
           export { introdata, meta, logotext, socialprofils, dataabout, skills, careers, certifications, dataportfolio };
           PROMPT_END
 
-          # Build the API request (GitHub Models uses OpenAI-compatible format)
+          # Build the API request using file inputs (avoids shell escaping issues)
           jq -n \
-            --arg system "$(cat prompt.txt)" \
-            --arg readme "${{ steps.readme.outputs.content }}" \
+            --rawfile system prompt.txt \
+            --rawfile readme README.md \
             '{
               model: "gpt-4o",
               messages: [
