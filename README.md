@@ -33,6 +33,7 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
 ## 🏅 Certifications
 
 - Passed the **IPA Applied Information Technology Engineer Examination** (2025.12)
+- **TOEIC Listening & Reading: 935** (2023.02)
 
 ## 💼 Professional Experience
 
