@@ -13,7 +13,7 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
   - Building scalable pipeline architectures
   - Supporting technical implementation for production teams
 
-- 🎓 Previously: **Python instructor at HAL Osaka** (2023.11 - 2024.9)
+- 🎓 Previously: **Python instructor at HAL Osaka** (2023.11 - 2024.09)
   - Conducted practical Python lectures for 3D CG applications
 
 - 👨‍💻 All of my projects are available at [https://www.takeshi-saito-cg.com/portfolio](https://www.takeshi-saito-cg.com/portfolio)
@@ -39,8 +39,8 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
 | Role | Company | Period | Description |
 |------|---------|--------|-------------|
 | **Production Engineer** | A CG company in Tokyo | 2024.10 - Present | Developing and maintaining CG production pipelines, optimizing DCC tool workflows, building scalable pipeline architectures, supporting technical implementation for production teams |
-| **Technical Director** | ModelingCafe inc. | 2023.1 - 2024.9 | Built pipelines, created digital human production tools, established CI/CD workflows for efficient deployment, provided technical support for production |
-| **Python Instructor** | HAL Osaka | 2023.11 - 2024.9 | Taught practical Python lectures for 3D CG applications |
+| **Technical Director** | ModelingCafe inc. | 2023.01 - 2024.09 | Built pipelines, created digital human production tools, established CI/CD workflows for efficient deployment, provided technical support for production |
+| **Python Instructor** | HAL Osaka | 2023.11 - 2024.09 | Taught practical Python lectures for 3D CG applications |
 | **Technical Artist** | ILCA inc. | 2022 | Developed consumer games using Unreal Engine, created DCC tools with Python, constructed Blueprints, performed character rigging |
 | **Student** | Digital Hollywood | 2021 - 2022 | Learned DCC tools (Maya, ZBrush, Substance Painter, Houdini), studied full 3D CG production pipeline |
 | **Client-side Engineer** | grimoire co., ltd. | 2018 - 2021 | Maintained and developed Unity mobile games, gained experience in optimization for low-end devices |
@@ -49,7 +49,7 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
 
 ## 🛠️ Core Skills & Expertise
 
-**Languages & Tools:**
+**Languages and Tools:**
 - **Python** - Tool development, DCC scripting, CI/CD workflows (Advanced)
 - **Unreal Engine** - Blueprint development, game development (Intermediate-Advanced)
 - **Autodesk Maya** - Tool creation, script development (Intermediate)
@@ -66,8 +66,14 @@ I am a **Production Engineer** with 8+ years of experience in the game and CG in
 - Unit Testing & Code Quality
 - Optimization for Low-end Devices
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Languages and Tools
+
+| Category | Stack |
+| --- | --- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Game / DCC** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Autodesk Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white) |
+| **DevOps / Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Development** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
 ## 📚 Featured Projects
 
