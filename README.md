@@ -1,96 +1,54 @@
-<h1 align="center">Hi 👋, I'm Takeshi Saito</h1>
-<h3 align="center">Production Engineer | Technical Artist | Programmer</h3>
+# Takeshi Saito
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=takeshisaito&label=Profile%20views&color=0e75b6&style=flat" alt="takeshisaito" /> </p>
+**Production Engineer** — developer tooling, production pipelines, and CI/CD 🗼 Tokyo
 
-## 🎯 About Me
+## About
 
-I am a **Production Engineer** with 8+ years of experience in the game and CG industry. My passion lies in designing and optimizing CG production pipelines, bridging the gap between technical art and production workflows. I specialize in Python scripting, pipeline architecture, DCC tool integration, and CI/CD workflow optimization.
+I build tools and pipelines that teams rely on for years, not just for one project. Over 8 years in game and CG production, I have worked across the stack: DCC tools for artists, pipeline architecture, and the CI/CD and quality checks that keep them maintainable. Lately I focus on AI-assisted development and on guardrails that hold AI-written code to the same standard as human-written code.
 
-- 🔭 Currently: **Production Engineer at a CG company somewhere in Tokyo** (2024.10 - Present) 🗼 Tokyo
-  - Developing and maintaining CG pipelines for production
-  - Optimizing DCC tool workflows and integrations
-  - Building scalable pipeline architectures
-  - Supporting technical implementation for production teams
+## Experience
 
-- 🎓 Previously: **Python instructor at HAL Osaka** (2023.11 - 2024.09)
-  - Conducted practical Python lectures for 3D CG applications
+| Role | Company | Period |
+|------|---------|--------|
+| **Production Engineer** | A CG company in Tokyo | 2024.10 – Present |
+| **Lead Technical Director** | ModelingCafe inc. | 2023.01 – 2024.09 |
+| **Python Instructor** (part-time) | HAL Osaka | 2023.10 – 2024.09 |
+| **Technical Artist** | ILCA inc. | 2022 |
+| **Student** | Digital Hollywood | 2021 – 2022 |
+| **Client-side Engineer** | grimoire co., ltd. | 2018 – 2021 |
+| **Sales & Production Manager** | Japan Steel Works, Ltd. | 2016 – 2018 |
+| **Student** (Commerce) | Keio University | 2011 – 2016 |
 
-- 👨‍💻 All of my projects are available at [https://www.takeshi-saito-cg.com/portfolio](https://www.takeshi-saito-cg.com/portfolio)
+**Current role:**
 
-- 💬 Ask me about **Python, CG Pipeline Development, DCC Tool Integration, Unreal Engine, Maya, and 3D CG Workflows**
+- **Pipeline development** — Long-lived tools shared across projects: asset loaders, shot builders, and data I/O between DCCs such as Maya and Houdini.
+- **Development infrastructure** — Automated testing and releases with GitLab CI, plus hooks and linters that enforce shared coding conventions.
+- **AI-assisted development** — Trying out methods such as spec-driven development and sharing them with the team.
+- **Results** — Refactored an existing tool and cut its startup time to one tenth.
 
-- 📫 How to reach me: **takeshi.saito.9119@gmail.com**
+## Featured Work
 
+- **[portfolio-hub](https://github.com/TakeshiSaito/portfolio-hub)** — A hub that defines projects, sets up their environments, and launches tools in them. Built with Python, rez, FastAPI, and SQLite, with tests, linters, and dependency checks running in GitHub Actions.
+- **ACE COMBAT 8: WINGS OF THEVE** (ILCA) — DCC tools for in-game cinematics, character and prop rigging, and character Blueprint setup in Unreal Engine.
+- **Meido Sarasa "Monday the 13th" Official MV** (ModelingCafe) — Custom MetaHuman rigging and skinning, a tool that applies facial capture to the rig, and character Blueprints in Unreal Engine.
+- **ReverseBlue×ReverseEnd** (grimoire) — Out-game features and the sound engine.
+- **BraveSword×BlazeSoul** (grimoire) — Maintenance, operation, and new features.
 
-- ⚡ Fun fact: **I love muscle training 💪💪💪**
-
-## 🔗 LinkedIn
-
-[takeshi-saito-aa6894180](https://www.linkedin.com/in/takeshi-saito-aa6894180/)
-
-## 🏅 Certifications
-
-- Passed the **IPA Applied Information Technology Engineer Examination** (2025.12)
-- **TOEIC Listening & Reading: 935** (2023.02)
-
-## 💼 Professional Experience
-
-| Role | Company | Period | Description |
-|------|---------|--------|-------------|
-| **Production Engineer** | A CG company in Tokyo | 2024.10 - Present | Developing and maintaining CG production pipelines, optimizing DCC tool workflows, building scalable pipeline architectures, supporting technical implementation for production teams |
-| **Technical Director** | ModelingCafe inc. | 2023.01 - 2024.09 | Built pipelines, created digital human production tools, established CI/CD workflows for efficient deployment, provided technical support for production |
-| **Python Instructor** | HAL Osaka | 2023.11 - 2024.09 | Taught practical Python lectures for 3D CG applications |
-| **Technical Artist** | ILCA inc. | 2022 | Developed consumer games using Unreal Engine, created DCC tools with Python, constructed Blueprints, performed character rigging |
-| **Student** | Digital Hollywood | 2021 - 2022 | Learned DCC tools (Maya, ZBrush, Substance Painter, Houdini), studied full 3D CG production pipeline |
-| **Client-side Engineer** | grimoire co., ltd. | 2018 - 2021 | Maintained and developed Unity mobile games, gained experience in optimization for low-end devices |
-| **Sales & Production Manager** | Japan Steel Works, Ltd. | 2016 - 2018 | Worked in sales and production management |
-| **Student** | Keio University | 2011 - 2016 | Studied commerce |
-
-## 🛠️ Core Skills & Expertise
-
-**Languages and Tools:**
-- **Python** - Tool development, DCC scripting, CI/CD workflows (Advanced)
-- **Unreal Engine** - Blueprint development, game development (Intermediate-Advanced)
-- **Autodesk Maya** - Tool creation, script development (Intermediate)
-- **Unity** - Mobile game development, optimization (Intermediate-Advanced)
-- **C#** - Game development (Intermediate)
-- **C++** - Game engine scripting (Beginner-Intermediate)
-
-**Technical Skills:**
-- Production Pipeline Development
-- CI/CD & Deployment Workflows (AWS, Deadline)
-- Tool Development for Artists
-- Digital Human Production
-- DCC Tool Integration
-- Unit Testing & Code Quality
-- Optimization for Low-end Devices
-
-### Languages and Tools
+## Skills
 
 | Category | Stack |
 | --- | --- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Game / DCC** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Autodesk Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white) |
-| **DevOps / Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Development** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Game / DCC** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Autodesk Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) |
+| **DevOps / Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Development** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **AI** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) |
 
-## 📚 Featured Projects
+## Certifications
 
-### 🎬 Digital Productions
-- **Meido Sarasa "Monday the 13th" Official MV** - Technical Artist & Animator
-- **ReverseBlue×ReverseEnd** - Game Assets & Technical Art
-- **BraveSword×BlazeSoul** - Technical Setup
+- **Applied Information Technology Engineer Examination** (IPA), passed 2025.12
+- **TOEIC Listening & Reading: 935** (2023.02)
 
-### 🎮 Game Development
-- **Indie Game Project** - Full-stack development with Unreal Engine
+## Contact
 
-### 📖 Learning & Portfolio
-- **Digital Hollywood Assignment** - 3D Character Work showcased on ArtStation
-
----
-
-**For more details, visit:**
-- 🌐 [Portfolio Website](https://www.takeshi-saito-cg.com/portfolio)
-- 🎨 [ArtStation](https://www.artstation.com/takeshisaito)
-- 📊 [GitHub Repositories](https://github.com/TakeshiSaito?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/takeshi-saito-aa6894180/)
